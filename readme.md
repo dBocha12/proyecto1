@@ -3,5 +3,3 @@
 
 Miembros: <br>
 ◆ Daniel Bolanos
-◆ Jeremy Ruiz
-
